@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @PembaSrpa.
-- 👀 I’m interested in data science and machine learning.
-- 🌱 I’m currently learning in Bmc Csit(Bachelor).
-- 💞️ I’m looking to collaborate on ...not sure...
-- 📫 How to reach me : nirashanichang@gmail.com.
+
