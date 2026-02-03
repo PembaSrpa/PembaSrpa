@@ -19,11 +19,10 @@ I work across the full data lifecycle: data extraction, cleaning, exploratory an
 **Languages**
 - Python
 - SQL
-- JavaScript
 
 **Data Analysis & ML**
 - Pandas, NumPy
-- Matplotlib, Tableau
+- Matplotlib, Tableau, MS Excel
 - Exploratory Data Analysis (EDA)
 - Scikit-learn, XGBoost
 - Feature engineering, regression, classification
@@ -43,7 +42,7 @@ I work across the full data lifecycle: data extraction, cleaning, exploratory an
 **Tools**
 - Git, GitHub
 - Jupyter Notebook
-- VS Code
+- VS Code/Cursor
 - Kaggle
 
 ---
@@ -53,11 +52,3 @@ I work across the full data lifecycle: data extraction, cleaning, exploratory an
 - BSc in Computer Science and Information Technology (CSIT)
 - Experience in full-stack development and game development
 - Strong foundation in problem solving, debugging, and system thinking
-
----
-
-## Links
-
-- Portfolio: https://artt-folio.vercel.app  
-- GitHub: https://github.com/PembaSrpa  
-- LinkedIn: https://www.linkedin.com/in/pemba-sherpa-3146b126a/
