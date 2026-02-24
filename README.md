@@ -44,6 +44,8 @@ I work across the full data lifecycle: data extraction, cleaning, exploratory an
 - Jupyter Notebook
 - VS Code/Cursor
 - Kaggle
+- Excel
+- Tableau
 
 ---
 
