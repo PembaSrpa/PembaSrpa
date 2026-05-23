@@ -19,7 +19,7 @@ I work across the full data lifecycle: data extraction, cleaning, exploratory an
 **Languages**
 - Python
 - SQL
-- 
+- js
 
 **Data Analysis & ML**
 - Pandas, NumPy
